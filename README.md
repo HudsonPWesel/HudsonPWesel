@@ -9,7 +9,7 @@
   Hi, I'm Hudson Pierce Wesel, Software Engineer & Cybersecurity Major
   <br>
   <br>
-  👨‍🎓 I'm currently studying for a Bachelor's degree in Mansoura University Computer Science and Control System Engineering Department (CCSED)
+  👨‍🎓 I'm currently studying for a Bachelor's degree in Cybersecurity
   <br>
   💻 I love Writing code, Hardware and learning anything about them 😊
   <br>
@@ -19,12 +19,12 @@
 </p>
 <p align="center"> <a href="https://www.linkedin.com/in/hudson-pierce-wesel-271978214/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=23></a> <a href="cshudsonwesel@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height=23></a> <a href="http://wa.me//201010147580"> 
 <!--   <a href="https://github.com/HalemoGPA/"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height=23></a> -->
-  <a href="https://www.youtube.com/watch?v=p0uAJ6Eu4Rs"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" height=23></a> <a href="https://t.me/HalemoGPA"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" height=23></a>  <a href="https://codeforces.com/profile/HGPA"><img src="https://img.shields.io/badge/codeforces-%234566B5.svg?&style=for-the-badge&logo=codeforces&logoColor=white" height=23></a></p>
+
 <hr>
 <h2 align="center">🔥 Languages & Frameworks & Tools & Abilities 🔥</h2><br>
 <p align="center">
 <!--   <code><img title="C" height="25" src="images/c.svg"></code> -->
-  <img title="C++" height="25" src="images/cpp.svg"></code>
+  <img title="C++" height="25" src="C++.svg"></code>
   <img title="Problem Solving" height="25" src="images/problemSolving.png">
 <!--   <code><img title="C#" height="25" src="images/cSharp.svg"></code> -->
   <img title="Python" height="25" src="images/python-original.svg">
