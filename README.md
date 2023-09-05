@@ -24,7 +24,7 @@
 <h2 align="center">🔥 Languages & Frameworks & Tools & Abilities 🔥</h2><br>
 <p align="center">
   <img title="C++" height="75" width="75" src="C++.svg"></code>
-  <img title="React" height="75" width="75" src="react.png"></code>
+  </code>
   <img title="Python" height="75" width="75" src="python.svg">
   <img title="NestJS" height="75" width="75" src="nestjs.svg">
   <img title="SASS" height="75" width="75" src="sass.svg">
@@ -32,7 +32,8 @@
   <img title="typescript" height="75" width="75" src="JS.svg">
   <img title="nextJS" height="75" width="75" src="next.svg">
   <img title="git" height="75" width="75" src="git.svg">
-  <img title="git" height="75" width="75" src="github.png">
+  <img title="nodejs" height="75" width="75" src="nodejs.svg">
+  <img margin-top="20" title="git" height="125" width="125" src="github.png">
   <img title="git" height="75" width="75" src="mysql.svg">
 
 
