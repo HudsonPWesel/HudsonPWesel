@@ -26,13 +26,16 @@
   
   </code>
 
-  </style>
-  <div style="display=grid;
+  <div style="
+      display=grid; 
+      text-align=center;
       grid-template-rows=1fr 1fr;  
       align-items=center;
       width=100%;
       column-gap=300px;
-      justify-content=center;"
+      justify-content=center
+      margin-left=300px
+      "
       class="images__container">
     <div class="top__row">
       <img style= "
@@ -49,7 +52,7 @@
       <img style="background-color: #fff; border-radius:5px" class="next" title="nextJS" height="75" width="75" src="nextjs-13.svg">
       <img title="git" height="75" width="75" src="git.svg">
       <img title="nodejs" height="75" width="75" src="nodejs.svg">
-      <img margin-top="20" title="git" height="125" width="125" src="github.png">
+      <img style="margin-top=20" title="git" height="125" width="125" src="github.png">
       <img title="git" height="75" width="75" src="mysql.svg">
       <img title="git" height="75" width="75" src="figma.svg">
     </div>
