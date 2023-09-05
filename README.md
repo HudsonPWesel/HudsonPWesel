@@ -29,7 +29,7 @@
       <img title="SASS" height="55" width="55" src="sass.svg">
       <img title="typescript" height="55" width="55" style="border-radius5" src="JS.svg">
       <img title="typescript" height="55" width="55" src="typescript.svg">
-      <img class="next" title="nextJS" height="55" width="55" src="nextjs-13.svg">
+      <img class="next" title="nextJS" height="45" width="75" src="nextJSWhite.jpeg"  >
       <img title="git" height="55" width="55" src="git.svg">
       <img title="nodejs" height="55" width="55" src="nodejs.svg">
       <img margin-top="20" title="git" height="55" width="55" src="github.png">
