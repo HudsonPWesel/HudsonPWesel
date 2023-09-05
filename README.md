@@ -46,7 +46,7 @@
       <img title="typescript" height="75" width="75" src="typescript.svg">
     </div>
     <div>
-      <img class="next" title="nextJS" height="75" width="75" src="nextjs-13.svg">
+      <img style="background-color: #fff; border-radius:5px" class="next" title="nextJS" height="75" width="75" src="nextjs-13.svg">
       <img title="git" height="75" width="75" src="git.svg">
       <img title="nodejs" height="75" width="75" src="nodejs.svg">
       <img margin-top="20" title="git" height="125" width="125" src="github.png">
