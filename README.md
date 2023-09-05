@@ -29,12 +29,12 @@
       <img title="SASS" height="55" width="55" src="sass.svg">
       <img title="typescript" height="55" width="55" style="border-radius5" src="JS.svg">
       <img title="typescript" height="55" width="55" src="typescript.svg">
-      <img class="next" title="nextJS" height="45" width="75" src="nextJSWhite.jpeg"  >
+      <img class="next" title="nextJS" height="45" width="75" src="nextjs-13.svg"  >
       <img title="git" height="55" width="55" src="git.svg">
-      <img title="nodejs" height="55" width="55" src="nodejs.svg">
-      <img margin-top="20" title="git" height="55" width="55" src="github.png">
       <img title="git" height="55" width="55" src="mysql.svg">
       <img title="git" height="55" width="55" src="figma.svg">
+      <img title="git" height="55" width="55" src="github.svg">
+      
 <hr>
 
 <h2 align="center">⚡ Stats ⚡</h2>
