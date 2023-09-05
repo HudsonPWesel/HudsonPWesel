@@ -32,14 +32,14 @@
   <img title="typescript" height="75" width="75" src="JS.svg">
   <img title="nextJS" height="75" width="75" src="next.svg">
   <img title="git" height="75" width="75" src="git.svg">
-  <img title="git" height="75" width="75" src="github.svg">
+  <img title="git" height="75" width="75" src="github.png">
   <img title="git" height="75" width="75" src="mysql.svg">
 
 
 
   
  
-  <img title="Javascript" height="25" src="images/javascript.svg">
+
   
   
 <!--   <code><img title="Microsoft Visual Studio" height="25" src="images/visualstudio.png"></code> -->
