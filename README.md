@@ -21,20 +21,39 @@
 <!--   <a href="https://github.com/HalemoGPA/"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height=23></a> -->
 
 <hr>
-<h2 align="center">🔥 Languages & Frameworks & Tools & Abilities 🔥</h2><br>
+<h2 align="center">🔥 Languages | Frameworks | Tools | Abilities 🔥</h2><br>
 <p align="center">
-  <img title="C++" height="75" width="75" src="C++.svg"></code>
+  
   </code>
-  <img title="Python" height="75" width="75" src="python.svg">
-  <img title="NestJS" height="75" width="75" src="nestjs.svg">
-  <img title="SASS" height="75" width="75" src="sass.svg">
-  <img title="typescript" height="75" width="75" src="typescript.svg">
-  <img title="typescript" height="75" width="75" src="JS.svg">
-  <img title="nextJS" height="75" width="75" src="next.svg">
-  <img title="git" height="75" width="75" src="git.svg">
-  <img title="nodejs" height="75" width="75" src="nodejs.svg">
-  <img margin-top="20" title="git" height="125" width="125" src="github.png">
-  <img title="git" height="75" width="75" src="mysql.svg">
+
+  </style>
+  <div style="display=grid;
+      grid-template-rows=1fr 1fr;  
+      align-items=center;
+      width=100%;
+      column-gap=300px;
+      justify-content=center;"
+      class="images__container">
+    <div class="top__row">
+      <img style= "
+      grid-row=0;
+      column-gap=60px;"
+      title="C++" height="75" width="75" src="C++.svg"></code>
+      <img title="Python" height="75" width="75" src="python.svg">
+      <img title="NestJS" height="75" width="75" src="nestjs.svg">
+      <img title="SASS" height="75" width="75" src="sass.svg">
+      <img title="typescript" height="75" width="75" src="JS.svg">
+      <img title="typescript" height="75" width="75" src="typescript.svg">
+    </div>
+    <div>
+      <img class="next" title="nextJS" height="75" width="75" src="nextjs-13.svg">
+      <img title="git" height="75" width="75" src="git.svg">
+      <img title="nodejs" height="75" width="75" src="nodejs.svg">
+      <img margin-top="20" title="git" height="125" width="125" src="github.png">
+      <img title="git" height="75" width="75" src="mysql.svg">
+      <img title="git" height="75" width="75" src="figma.svg">
+    </div>
+   </div>
 
 
 
