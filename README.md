@@ -23,65 +23,18 @@
 <hr>
 <h2 align="center">🔥 Languages | Frameworks | Tools | Abilities 🔥</h2><br>
 <p align="center">
-  
-  </code>
-
-  <style>
-    .images__container{
-      display:grid;
-      grid-template-rows: 1fr 1fr;
-      align-items: center;
-      width: 100%;
-      column-gap: 300px;
-      justify-self: center;
-      margin: 0 auto;
-
-    }
-
-    .top__row{
-      grid-row: 0;
-      column-gap: 60px;
-    }
-       .next{
-        background-color: white;
-        border-radius: 5px;
-      }
-  </style>
-  <div style="display=grid; align=center
-      grid-template-rows=1fr 1fr;  
-      align-items=center;
-      width=100%;
-      column-gap=300px;
-      justify-content= center;"
-      class="images__container">
-    <div class="top__row">
-      <img style=
-      title="C++" height="25" width="25" src="C++.svg"></code>
-      <img title="Python" height="25" width="25" src="python.svg">
-      <img title="NestJS" height="25" width="25" src="nestjs.svg">
-      <img title="SASS" height="25" width="25" src="sass.svg">
-      <img title="typescript" height="25" width="25" src="JS.svg">
-      <img title="typescript" height="25" width="25" src="typescript.svg">
-    </div>
-    <div>
-      <img class="next" title="nextJS" height="25" width="25" src="nextjs-13.svg">
-      <img title="git" height="25" width="25" src="git.svg">
-      <img title="nodejs" height="25" width="25" src="nodejs.svg">
+      <img title="C++" height="125" width="125" src="C++.svg"></code>
+      <img title="Python" height="125" width="125" src="python.svg">
+      <img title="NestJS" height="125" width="125" src="nestjs.svg">
+      <img title="SASS" height="125" width="125" src="sass.svg">
+      <img title="typescript" height="125" width="125" src="JS.svg">
+      <img title="typescript" height="125" width="125" src="typescript.svg">
+      <img class="next" title="nextJS" height="125" width="125" src="nextjs-13.svg">
+      <img title="git" height="125" width="125" src="git.svg">
+      <img title="nodejs" height="125" width="125" src="nodejs.svg">
       <img margin-top="20" title="git" height="125" width="125" src="github.png">
-      <img title="git" height="25" width="25" src="mysql.svg">
-      <img title="git" height="25" width="25" src="figma.svg">
-    </div>
-   </div>
-
-
-
-  
- 
-
-  
-  
-<!--   <code><img title="Microsoft Visual Studio" height="25" src="images/visualstudio.png"></code> -->
-</p>
+      <img title="git" height="125" width="125" src="mysql.svg">
+      <img title="git" height="125" width="125" src="figma.svg">
 <hr>
 
 <h2 align="center">⚡ Stats ⚡</h2>
