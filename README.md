@@ -23,49 +23,19 @@
 <hr>
 <h2 align="center">🔥 Languages | Frameworks | Tools | Abilities 🔥</h2><br>
 <p align="center">
-  
-  </code>
-
-  <div style="
-      display=grid; 
-      text-align=center;
-      grid-template-rows=1fr 1fr;  
-      align-items=center;
-      width=100%;
-      column-gap=300px;
-      justify-content=center
-      margin-left=300px
-      "
-      class="images__container">
     <div class="top__row">
-      <img style= "
-      grid-row=0;
-      column-gap=60px;"
-      title="C++" height="75" width="75" src="C++.svg"></code>
+      <img title="C++" height="75" width="75" src="C++.svg"></code>
       <img title="Python" height="75" width="75" src="python.svg">
       <img title="NestJS" height="75" width="75" src="nestjs.svg">
       <img title="SASS" height="75" width="75" src="sass.svg">
       <img title="typescript" height="75" width="75" src="JS.svg">
       <img title="typescript" height="75" width="75" src="typescript.svg">
-    </div>
-    <div>
       <img style="background-color: #fff; border-radius:5px" class="next" title="nextJS" height="75" width="75" src="nextjs-13.svg">
       <img title="git" height="75" width="75" src="git.svg">
       <img title="nodejs" height="75" width="75" src="nodejs.svg">
-      <img style="margin-top=20" title="git" height="125" width="125" src="github.png">
+      <img style="margin-top=20" title="git" height="75" width="75" src="github.png">
       <img title="git" height="75" width="75" src="mysql.svg">
       <img title="git" height="75" width="75" src="figma.svg">
-    </div>
-   </div>
-
-
-
-  
- 
-
-  
-  
-<!--   <code><img title="Microsoft Visual Studio" height="25" src="images/visualstudio.png"></code> -->
 </p>
 <hr>
 
