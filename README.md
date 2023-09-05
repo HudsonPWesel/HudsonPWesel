@@ -23,18 +23,18 @@
 <hr>
 <h2 align="center">🔥 Languages | Frameworks | Tools | Abilities 🔥</h2><br>
 <p align="center">
-      <img title="C++" height="125" width="125" src="C++.svg"></code>
-      <img title="Python" height="125" width="125" src="python.svg">
-      <img title="NestJS" height="125" width="125" src="nestjs.svg">
-      <img title="SASS" height="125" width="125" src="sass.svg">
-      <img title="typescript" height="125" width="125" src="JS.svg">
-      <img title="typescript" height="125" width="125" src="typescript.svg">
-      <img class="next" title="nextJS" height="125" width="125" src="nextjs-13.svg">
-      <img title="git" height="125" width="125" src="git.svg">
-      <img title="nodejs" height="125" width="125" src="nodejs.svg">
-      <img margin-top="20" title="git" height="125" width="125" src="github.png">
-      <img title="git" height="125" width="125" src="mysql.svg">
-      <img title="git" height="125" width="125" src="figma.svg">
+      <img title="C++" height="55" width="55" src="C++.svg"></code>
+      <img title="Python" height="55" width="55" src="python.svg">
+      <img title="NestJS" height="55" width="55" src="nestjs.svg">
+      <img title="SASS" height="55" width="55" src="sass.svg">
+      <img title="typescript" height="55" width="55" style="border-radius5" src="JS.svg">
+      <img title="typescript" height="55" width="55" src="typescript.svg">
+      <img class="next" title="nextJS" height="55" width="55" src="nextjs-13.svg">
+      <img title="git" height="55" width="55" src="git.svg">
+      <img title="nodejs" height="55" width="55" src="nodejs.svg">
+      <img margin-top="20" title="git" height="55" width="55" src="github.png">
+      <img title="git" height="55" width="55" src="mysql.svg">
+      <img title="git" height="55" width="55" src="figma.svg">
 <hr>
 
 <h2 align="center">⚡ Stats ⚡</h2>
