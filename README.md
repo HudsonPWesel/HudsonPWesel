@@ -36,9 +36,7 @@
 ![SQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=MySQL&logoColor=white)
 ![SASS](https://img.shields.io/badge/Sass-CC6699.svg?style=for-the-badge&logo=Sass&logoColor=white)
 <hr>
-<h2 align="center">🔥 Languages | Frameworks | Tools | Abilities 🔥</h2><br>
       
-<hr>
 
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
