@@ -11,9 +11,9 @@
   <br>
   👨‍🎓 I'm currently studying for a Bachelor's degree in Cybersecurity
   <br>
-  💻 I love Writing code, Hardware and learning anything about them 😊
+  💻 I love writing code, cybersecurity operations, and Data Science😊
   <br>
-  📚 I’m currently focusing on Data Science 
+  📚 I’m currently focusing on Software Engineering
   <br>
   📫 How to reach me 👇
 </p>
