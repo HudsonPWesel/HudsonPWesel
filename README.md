@@ -56,7 +56,8 @@
 </p>
 
 <hr>
-<h2 align="center">💹 Most Popular Repos 💹</h2>
+<h2 align="center">💹 Recent Repos 💹</h2>
+[Network Traffic Analysis Cybersecurity ML Model](https://github.com/HudsonPWesel/AI-Team8Repo)
 <br>
 <hr>
 
