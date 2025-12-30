@@ -4,13 +4,6 @@
 <p align="center">
   Hi, I'm Hudson Pierce Wesel Cybersecurity Major
   <br>
-  <br>
-  👨‍🎓 I'm currently studying for a Bachelor's degree in Cybersecurity
-  <br>
-  💻 I love writing code, cybersecurity operations,
-  <br>
-  📚 I’m currently focusing on Cybersecurity
-  <br>
   📫 How to reach me 👇
 </p>
 <p align="center"> <a href="https://www.linkedin.com/in/hudson-pierce-wesel-271978214/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=23></a> <a href="cshudsonwesel@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height=23></a> <a href="http://wa.me//201010142580"> 
@@ -22,27 +15,14 @@
 ![Python](https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white)
 ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 <hr>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HudsonPWesel&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=nord&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=HudsonPWesel&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=nord&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
-
-###
       
 
-<h2 align="center">⚡ Stats ⚡</h2>
-<br>
-
-
-
 <p align="center">
-
 </p>
 
 <hr>
-<h2 align="center">💹 Recent Repos 💹</h2>
-[Network Traffic Analysis Cybersecurity ML Model](https://github.com/HudsonPWesel/AI-Team8Repo)
+<h2 align="center"> Portfolio Projects</h2>
+[Ethical Hacking Demo Labs](https://github.com/HudsonPWesel/CyberClub-Projects)
 <br>
 <hr>
 
