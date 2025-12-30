@@ -22,7 +22,8 @@
 
 <hr>
 <h2 align="center"> Portfolio Projects</h2>
-[Ethical Hacking Demo Labs](https://github.com/HudsonPWesel/CyberClub-Projects)
+[Ethical Hacking Demo Labs] (https://github.com/HudsonPWesel/CyberClub-Projects)
+
 [Cybersecurity Homelab] (https://github.com/HudsonPWesel/Homelab_Network)
 <br>
 <hr>
